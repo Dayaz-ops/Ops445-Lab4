@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab4.py
+===============================================================
+    User login name: dayaz
+    Linux system name: dayaz-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/dayaz/ops445/lab4
+    Start at: Tue Feb 18 13:27:04 2025
+===============================================================
